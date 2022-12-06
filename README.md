@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adihotwani
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in mobile applications and software development
-- 🌱 I’m currently learning android app development and java
-- 💞️ I’m looking to collaborate on android projects to learn more.
-- 📫 How to reach me - theappmachine12@gmail.com
+- 🌱 I’m currently working on React Native application development.
+- 💞️ I’m looking to collaborate and learn more knowledge.
+- 📫 How to reach me - hotwaniaditya1203@gmail.com
 
 <!---
 adihotwani/adihotwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
